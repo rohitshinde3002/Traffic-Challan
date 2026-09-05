@@ -36,7 +36,6 @@ The system allows users to upload a traffic violation image. The application use
 
 ## 📂 Project Structure
 
-```text
 Traffic-Challan/
 │
 ├── app1.py
