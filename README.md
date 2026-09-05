@@ -182,11 +182,10 @@ For production use, a cloud database and persistent storage should be considered
 
 GitHub: [rohitshinde3002](https://github.com/rohitshinde3002)
 
-## 📄 License
-
-This project is intended for educational and demonstration purposes.
 
 ````
+## 📄 License
 
+This project is licensed under the MIT License.
 
 
