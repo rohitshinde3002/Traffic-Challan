@@ -1,6 +1,4 @@
-Haan 👍 GitHub ka **“Add a README”** section basically tumhare project ka introduction hai. Professional README se recruiter ko immediately samajh aata hai ki project kya karta hai, kaise bana hai, aur kaise run karna hai.
 
-Tumhare **AI Traffic Challan System** ke liye ye professional README use karo:
 
 ````markdown
 # 🚦 AI Traffic Challan System
